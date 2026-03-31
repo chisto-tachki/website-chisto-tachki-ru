@@ -2,7 +2,7 @@
  	Author: WebThemez
 -------------------------------------------------------------------------------*/
 		
-@import url(http://fonts.googleapis.com/css?family=Open%20Sans:300,400,500,600,700); 
+@import url(https://fonts.googleapis.com/css?family=Open%20Sans:300,400,500,600,700); 
 	
 	
 /* ------------------------------------------------------------------------------
@@ -531,7 +531,9 @@ ul li {
 /* -----------------------------------------------------------------------------
 Common Styles
 ------------------------------------------------------------------------------- */
-.section-header{	text-align: center;	padding-bottom: 30px;
+.section-header{	
+text-align: center;	
+padding-bottom: 30px;
 }
 .section-header h2{
 	color: #ffffff;
